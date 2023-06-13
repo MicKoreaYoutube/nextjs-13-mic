@@ -11,7 +11,7 @@ export default function IndexPage() {
           This page is the about page
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground">
-          you can check our company's information
+          you can check our company&#39;s information
         </p>
       </div>
       <div className="flex gap-4">
