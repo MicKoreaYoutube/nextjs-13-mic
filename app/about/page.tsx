@@ -24,7 +24,6 @@ export default function IndexPage() {
           Another Button
         </Link>
         <Link
-          target="_blank"
           rel="noreferrer"
           href="/pricing"
           className={buttonVariants({ variant: "outline" })}
