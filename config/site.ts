@@ -16,6 +16,7 @@ export const siteConfig = {
     {
       title: "Pricing",
       href: "/pricing",
+      external: "true",
     },
   ],
   links: {
