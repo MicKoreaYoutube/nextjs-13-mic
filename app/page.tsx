@@ -33,6 +33,7 @@ export default function IndexPage() {
           >
             GitHub
           </Link>
+          <hr />
           <input type="email" placeholder="Email" />
         </div>
       </section>
