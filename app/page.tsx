@@ -6,7 +6,6 @@ import { buttonVariants } from "@/components/ui/button"
 
 export default function IndexPage() {
   return (
-    <>
       <section className="container grid items-center gap-6 pb-8 pt-6 md:py-10">
         <div className="flex max-w-[980px] flex-col items-start gap-2">
           <Image src="/main_img.png" alt="설명" height={1000} width={1000}/>
@@ -38,7 +37,5 @@ export default function IndexPage() {
         <hr/>
         <input type="text">
       </section>
-      <input type="text">
-    </>
   )
 }
