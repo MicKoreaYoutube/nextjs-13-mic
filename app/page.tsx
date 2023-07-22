@@ -33,7 +33,7 @@ export default function IndexPage() {
           >
             GitHub
           </Link>
-          <hr />
+          <br />
           <div>
             <input type="text" placeholder="이름" />
             <input type="email" placeholder="이메일" />
