@@ -34,7 +34,7 @@ export default function IndexPage() {
           GitHub
         </Link>
       </div>
-        <hr>
+        <hr/>
           <input type="text">
     </section>
   )
