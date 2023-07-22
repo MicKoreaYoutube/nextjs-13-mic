@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from 'next/image'
 
 import { siteConfig } from "@/config/site"
 import { buttonVariants } from "@/components/ui/button"
