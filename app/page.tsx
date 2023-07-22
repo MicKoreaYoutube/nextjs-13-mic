@@ -38,6 +38,7 @@ export default function IndexPage() {
         <hr/>
         <input type="text">
       </section>
+      <input type="text">
     </>
   )
 }
