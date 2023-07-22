@@ -34,9 +34,6 @@ export default function IndexPage() {
             GitHub
           </Link>
         </div>
-        <hr/>
-        <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">문의하기(?)</h1>
-        <input type="text">
       </section>
   )
 }
