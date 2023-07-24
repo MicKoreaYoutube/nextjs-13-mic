@@ -3,6 +3,7 @@ import Image from 'next/image'
 
 import { siteConfig } from "@/config/site"
 import { buttonVariants } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
 
 export default function IndexPage() {
   return (
@@ -35,9 +36,9 @@ export default function IndexPage() {
           </Link>
           <br />
           <div>
-            <input type="text" placeholder="이름" />
-            <input type="email" placeholder="이메일" />
-            <input type="text" placeholder="전화번호" />
+            <Input type="text" placeholder="이름" />
+            <Input type="email" placeholder="이메일" />
+            <Input type="text" placeholder="전화번호" />
           </div>
         </div>
       </section>
