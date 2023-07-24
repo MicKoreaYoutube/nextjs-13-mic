@@ -36,9 +36,15 @@ export default function IndexPage() {
           </Link>
           <br />
           <div>
+            <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
+              문의하기
+            </h1>
             <Input type="text" placeholder="이름" />
+            <br />
             <Input type="email" placeholder="이메일" />
+            <br />
             <Input type="text" placeholder="전화번호" />
+            <br />
           </div>
         </div>
       </section>
