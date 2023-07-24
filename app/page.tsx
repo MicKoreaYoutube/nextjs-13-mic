@@ -35,7 +35,8 @@ export default function IndexPage() {
             GitHub
           </Link>
           <br />
-          <div>
+        </div>
+        <div>
             <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
               문의하기
             </h1>
@@ -46,7 +47,6 @@ export default function IndexPage() {
             <Input type="text" placeholder="전화번호" />
             <br />
           </div>
-        </div>
       </section>
   )
 }
